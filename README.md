@@ -1,6 +1,6 @@
 # Procs
 
-### List Running Processes on Linux (C++)
+### List Running Processes on Debian
 
 The source code of this project is in `main.cpp` file. It is a simple C++ program that uses /proc filesystem to display all running processes in Ubuntu (the PID and process name).
 
