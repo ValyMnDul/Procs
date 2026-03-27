@@ -14,9 +14,11 @@ Method 1: Using g++
 - compile the code using the command: `g++ main.cpp -o procs`
 - run the compiled program using the command: `./procs`
 
-Method 2: Get the executable file
-- download the executable file (procs)
-- open terminal and navigate to the directory where procs is located
+Method 2: Get the executable file (Recommended)
+- go to the [Releases page](https://github.com/numele-tau/nume-repo/releases) of this repository
+- download the latest executable file (`procs`) from the **Assets** section
+- open terminal and navigate to the directory where you downloaded the file
+- make the file executable by running: `chmod +x procs`
 - run the program using the command: `./procs`
 
 ## Output
