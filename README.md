@@ -32,6 +32,13 @@ PID: 1234, Name: process_name
 
 Where `PID` is the process ID and `Name` is the name of the process.
 
+## Contributing
+
+Feel free to open an issue or submit a pull request to contribute or suggest features
+
+## License
+
+This project is licensed udner the [MIT LICENSE](LICENSE.md)
 
 ### Made for "The Game" event hosted by HackClub
 
